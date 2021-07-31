@@ -1,0 +1,16 @@
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.exe
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.deps.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.runtimeconfig.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.runtimeconfig.dev.json
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\ref\TheDIOBank.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\bin\Debug\net5.0\TheDIOBank.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.csproj.AssemblyReference.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.AssemblyInfoInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.AssemblyInfo.cs
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\ref\TheDIOBank.dll
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.pdb
+C:\Users\Rafae\OneDrive\Área de Trabalho\project\TheDIOBank\obj\Debug\net5.0\TheDIOBank.genruntimeconfig.cache
